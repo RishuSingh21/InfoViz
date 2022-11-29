@@ -2,7 +2,7 @@
 Top Trending Google Search Queries
 
 Significance:
-One of the main figures in the project a word map visualization of the most trending ‘Google’ queries. Word map is a ranking visualization in which each word’s font size is based on its weight. Google is the number search engine of the world and hence analyzing the search trend helps in optimizing SEO strategy. It tells a keyword, search category popularity country wise. This data can be very helpful in refining a marketing strategy and campaigning.
+One of the main figures in the project is a word map visualization of the most trending ‘Google’ queries. Word map is a ranking visualization in which each word’s font size is based on its weight. Google is the number 1 search engine of the world and hence analyzing the search trend helps in optimizing SEO strategy. It tells a keyword, search category popularity country wise. This data can be very helpful in refining a marketing strategy and campaigning.
 
 Findings: 
 •	Queries like ‘Whitney Houston’, ‘Gangnam Style’, ‘Amy Winehouse’, ‘Paul Walker’ and “black Panther’ are among the most popular search queries on Google.
@@ -11,9 +11,9 @@ Findings:
 •	Word graphs are quite resourceful when it comes to determining the top items
 
 Limitations: 
-•	Same query can fall under multiple categories and hence while plotting a word in a word cloud highest frequency category among top 10 categories is selected. 
-•	Since word cloud use relative sizing, therefore there is a limit on how many words can be effectively displayed in it and that’s why we can see only 7 categories legend out of 10 categories. 
-•	There are some popular queries which are not a part of final figure as they do not belong to top 10 categories. Figure below is a word cloud without filtering top 10 categories. We can see some words that are not a part of final figure like ‘Facebook’ and some words with changed frequency like ‘Donald Trump’. These changes are because of the filtering of categories.
+•	Same query can fall under multiple categories and hence while plotting a word in a word cloud highest frequency category among top 7 categories is selected. 
+•	Since word cloud use relative sizing, therefore there is a limit on how many words can be effectively displayed in it and that’s why we can see only 7 categories legend. 
+•	There are some popular queries which are not a part of final figure as they do not belong to top 7 categories.
 
 Data:
 The dataset used for this project has been taken from ‘Kaggle’. It’s a dataset of Google search trends over the years 2001 to 2020. Every year, Google releases the trending search queries all over the world in various categories. The data has been consolidated from these reports.
